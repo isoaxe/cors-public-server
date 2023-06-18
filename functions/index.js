@@ -6,7 +6,7 @@ const corsServer = corsAnywhere.createServer({
     originWhitelist: [
       'http://localhost:3000',
       'http://localhost:5000',
-      'https://littlemomster.be', // for GitHub user @dboute
+      'https://your-website.com',
     ],
     requireHeader: ['origin', 'x-requested-with'],
     removeHeaders: ['cookie', 'cookie2']
