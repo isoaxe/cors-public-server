@@ -12,6 +12,4 @@ Just on Firebase for now.
 
 ## Whitelisted Addresses
 
-The following addresses have been given access to the `cors-public-server` on Firebase:
-
-+ `https://littlemomster.be` for @dboute
+No addresses have been added yet. If you would like to add yours, open an issue on this repo.
