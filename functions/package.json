@@ -1,6 +1,6 @@
 {
   "name": "cors-public-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A server implementing the cors-anywhere node package",
   "scripts": {
     "serve": "firebase emulators:start --only functions",
