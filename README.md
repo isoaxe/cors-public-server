@@ -5,9 +5,11 @@ This project is a clone of [cors-server](https://github.com/isoaxe/cors-server).
 
 ## Proxy URLs
 
-Just on Firebase for now.
+The proxy server has been hosted on both Firebase and Fly.io.
 
-`https://proxy-pqrhttcdvq-uc.a.run.app/`
+**Firebase:** `https://proxy-pqrhttcdvq-uc.a.run.app/`
+
+**Fly.io:** `https://cors-server.fly.dev/`
 
 
 ## Whitelisted Addresses
